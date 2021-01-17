@@ -1,0 +1,11 @@
+C:\Users\soula\Desktop\PROJECT.C.Sharp\EtudiantFormulaire\EtudiantForm\EtudiantForm\bin\Debug\EtudiantBaseDonne.accdb
+C:\Users\soula\Desktop\PROJECT.C.Sharp\EtudiantFormulaire\EtudiantForm\EtudiantForm\bin\Debug\EtudiantForm.exe.config
+C:\Users\soula\Desktop\PROJECT.C.Sharp\EtudiantFormulaire\EtudiantForm\EtudiantForm\bin\Debug\EtudiantForm.exe
+C:\Users\soula\Desktop\PROJECT.C.Sharp\EtudiantFormulaire\EtudiantForm\EtudiantForm\bin\Debug\EtudiantForm.pdb
+C:\Users\soula\Desktop\PROJECT.C.Sharp\EtudiantFormulaire\EtudiantForm\EtudiantForm\obj\Debug\EtudiantForm.csprojAssemblyReference.cache
+C:\Users\soula\Desktop\PROJECT.C.Sharp\EtudiantFormulaire\EtudiantForm\EtudiantForm\obj\Debug\EtudiantForm.Form1.resources
+C:\Users\soula\Desktop\PROJECT.C.Sharp\EtudiantFormulaire\EtudiantForm\EtudiantForm\obj\Debug\EtudiantForm.Properties.Resources.resources
+C:\Users\soula\Desktop\PROJECT.C.Sharp\EtudiantFormulaire\EtudiantForm\EtudiantForm\obj\Debug\EtudiantForm.csproj.GenerateResource.cache
+C:\Users\soula\Desktop\PROJECT.C.Sharp\EtudiantFormulaire\EtudiantForm\EtudiantForm\obj\Debug\EtudiantForm.csproj.CoreCompileInputs.cache
+C:\Users\soula\Desktop\PROJECT.C.Sharp\EtudiantFormulaire\EtudiantForm\EtudiantForm\obj\Debug\EtudiantForm.exe
+C:\Users\soula\Desktop\PROJECT.C.Sharp\EtudiantFormulaire\EtudiantForm\EtudiantForm\obj\Debug\EtudiantForm.pdb
